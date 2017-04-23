@@ -1,0 +1,15 @@
+Description of the Steps:    
+
+1. Identifying  the  Flow  Direction
+2. Finding the Sink positions
+3. Filling the Sink Positions
+4. Defining Flow Accumulation
+5. Importing pour points
+6. Watershed  on  Pour  points
+7. Derivation of conditional value
+8. Deriving the stream network
+9. Harmonizing the Resolution
+10. Combination
+11. Joining table
+12. Calculation of run off in the combine table
+13. Summarizing
